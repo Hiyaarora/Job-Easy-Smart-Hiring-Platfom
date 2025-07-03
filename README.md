@@ -90,6 +90,6 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## Contact
 
-Abhishek Rajput - [GitHub](https://github.com/Hiyaarora)
+Hiya Arora - [GitHub](https://github.com/Hiyaarora)
 
 Project Link: [https://github.com/Hiyaarora/Job-Easy-Smart-Hiring-Platfom]https://github.com/Hiyaarora/Job-Easy-Smart-Hiring-Platfom
